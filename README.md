@@ -1,4 +1,4 @@
-# Roteiro comparativo dos algoritmos elementares de ordenarção
+# Roteiro comparativo dos algoritmos elementares de ordenação
 
 ## Descrição
 Este repositório contém um projeto simples em Java com intuito de analisar a execução dos algoritmos de ordenação BubbleSort, SelectionSort e InsertionSort.
